@@ -71,7 +71,6 @@ h1, h2, h3{
 	font-size: 1.7rem;
 	font-weight: 300;
 	line-height: 1.8
-
 }
 
 #header{
@@ -248,6 +247,10 @@ h1, h2, h3{
 }
 #footer{
 	background-color: var(--dark-color);
+	color: var(--light-color);
+}
+#footers{
+	background-color: #0B0B0B;
 	color: var(--light-color);
 }
 .footer-content{
